@@ -1,0 +1,31 @@
+# Export files
+*.json
+browser_history_export.json
+browser_cookies_export.json
+
+# Database backups
+*.backup_*
+*.db-backup*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
